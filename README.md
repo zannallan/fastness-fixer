@@ -2,7 +2,7 @@
 summary: 'Fix a bunch of performance problems and pass the performance budget.'
 time: '1 hour'
 deliverables: '1 HTML file, 4 CSS files, images'
-download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/fastness-fixer-download.zip'
+download: 'https://assets.learn-the-web.algonquindesign.ca/web-design-3/fastness-fixer-download.zip'
 ---
 
 # Fastness fixer
@@ -21,7 +21,7 @@ download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/fastness-fi
 - [ ] Resize, compress & smush all the images
 - [ ] Remove any ads
 - [ ] Remove any tracking scripts
-- [ ] Clean out all the CSS files be removing the unnecessary code
+- [ ] Clean out the `main.css` file be removing the unnecessary code
 - [ ] Fix all the broken URLs & links
 
 ---
